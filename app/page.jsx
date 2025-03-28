@@ -14,6 +14,7 @@ import { TrustSection } from "@/components/trust-section";
 import { TreatmentOptions } from "@/components/treatment-options";
 import { ArticlesSection } from "@/components/articles-section";
 import { FirstStep } from "@/components/first-step";
+import { FAQSection } from "@/components/faq-section";
 import { ContactSection } from "@/components/contact-section";
 import { Footer } from "@/components/footer";
 
@@ -30,6 +31,7 @@ export default function Home() {
         <TrustSection />
         <ArticlesSection />
         <FirstStep />
+        <FAQSection />
         <ContactSection />
       </main>
       <Footer />
