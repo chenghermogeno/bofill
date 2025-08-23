@@ -9,7 +9,7 @@ export default function Header() {
       <div className="container flex mx-auto h-20 items-center justify-between px-4 md:px-6">
         <div className="flex items-center gap-2">
           <Image
-            src="/bps-logo.avif"
+            src="/psych-logo.png"
             alt="Bofill Psychological Services Logo"
             width={40}
             height={40}
@@ -17,7 +17,7 @@ export default function Header() {
           />
           <div>
             <h1 className="text-xl font-bold text-primary-foreground">
-              BOFILL
+              COMPANY
             </h1>
             <p className="text-xs text-primary-foreground/80">
               PSYCHOLOGICAL SERVICES

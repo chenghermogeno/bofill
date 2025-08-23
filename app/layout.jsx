@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Bofill Psychological Services",
+  title: "Company Psychological Services",
   description:
     "Professional psychological services for individuals, couples, and families.",
 };

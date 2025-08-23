@@ -12,10 +12,10 @@ export function About() {
                 WHO WE ARE
               </p>
               <h2 className="mb-4 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-                Journeying towards Happiness, Hand in Hand with Bofill
+                Journeying towards Happiness, Hand in Hand with Company
               </h2>
               <p className="text-muted-foreground">
-                At Bofill Psychological Services, we're dedicated to helping you
+                At Company Psychological Services, we're dedicated to helping you
                 navigate life's challenges and find your path to emotional
                 well-being and happiness.
               </p>

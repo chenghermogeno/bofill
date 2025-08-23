@@ -43,13 +43,13 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Image
-                src="/bps-logo.avif"
-                alt="Bofill Psychological Services Logo"
-                width={40}
-                height={40}
-                className="rounded-full bg-primary-foreground"
+                src="/psych-logo.png"
+                alt="Company Psychological Services Logo"
+                width={50}
+                height={50}
+                className="rounded-full"
               />
-              <h2 className="text-xl font-bold">BOFILL</h2>
+              <h2 className="text-xl font-bold">Company</h2>
             </div>
             <p className="text-primary-foreground/80">
               Providing compassionate, evidence-based psychological services to
@@ -143,7 +143,7 @@ export function Footer() {
       <div className="bg-blue-50 py-4 text-primary">
         <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 md:flex-row md:px-6">
           <p className="text-center text-sm">
-            © {new Date().getFullYear()} Bofill Psychological Services. All
+            © {new Date().getFullYear()} Company Psychological Services. All
             Rights Reserved.
           </p>
           <div className="flex gap-4 text-sm">

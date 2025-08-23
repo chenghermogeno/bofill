@@ -23,7 +23,7 @@ export function WhyChooseUs() {
                 WHY CHOOSE US
               </p>
               <h2 className="mb-4 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-                Navigating Life's Challenges, Guided by Bofill.
+                Navigating Life's Challenges, Guided by Company.
               </h2>
               <p className="text-muted-foreground">
                 Our team of experienced professionals is dedicated to providing

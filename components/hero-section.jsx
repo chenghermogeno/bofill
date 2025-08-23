@@ -51,7 +51,7 @@ export function Hero() {
               <span className="text-amber-400">Harmony</span>
             </h2>
             <p className="mb-8 max-w-[600px] text-lg text-white/80">
-              At Bofill Psychological Services, we believe in the power of
+              At Company Psychological Services, we believe in the power of
               compassionate care and evidence-based approaches to mental health.
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">

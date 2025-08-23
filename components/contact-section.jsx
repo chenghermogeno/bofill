@@ -24,7 +24,7 @@ export function ContactSection() {
             <div className="flex items-start gap-4">
               <div className="w-full">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1930.316776616582!2d120.99954224221878!3d14.619939086496158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b764c6b50915%3A0x431a91d4c82edfff!2sBofill%20Psychological%20Services%20(BPSi)%20Clinic!5e0!3m2!1sen!2sph!4v1743066989186!5m2!1sen!2sph"
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d28347.20039375575!2d120.93685552711182!3d14.421096739823675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1755975280160!5m2!1sen!2sph"
                   width="100%"
                   height="250" // Adjusted for mobile
                   className="rounded-lg sm:h-[350px] md:h-[450px] lg:h-[550px]" // Dynamic height adjustment
