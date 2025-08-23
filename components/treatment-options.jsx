@@ -56,7 +56,7 @@ export function TreatmentOptions() {
             TREATMENT OPTIONS
           </p>
           <h2 className="mb-4 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-            Discover Balance and Harmony with Bofill
+            Discover Balance and Harmony with Company
           </h2>
           <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
             We offer a comprehensive range of psychological services tailored to

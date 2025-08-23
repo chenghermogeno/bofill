@@ -10,7 +10,7 @@ export default function Header() {
         <div className="flex items-center gap-2">
           <Image
             src="/psych-logo.png"
-            alt="Bofill Psychological Services Logo"
+            alt="Company Psychological Services Logo"
             width={40}
             height={40}
             className="rounded-full"

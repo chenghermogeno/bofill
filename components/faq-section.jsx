@@ -15,13 +15,13 @@ export function FAQSection() {
     {
       question: "How long does each therapy session last?",
       answer:
-        "Standard therapy sessions at Bofill Psychological Services typically last 50 minutes. However, initial consultations may be longer (around 60-90 minutes) to allow time for a comprehensive assessment of your needs. We also offer extended sessions for certain therapeutic approaches when necessary.",
+        "Standard therapy sessions at Company Psychological Services typically last 50 minutes. However, initial consultations may be longer (around 60-90 minutes) to allow time for a comprehensive assessment of your needs. We also offer extended sessions for certain therapeutic approaches when necessary.",
     },
     {
       question:
         "What is the difference between a psychologist and a psychiatrist?",
       answer:
-        "Psychologists have doctoral degrees (PhD, PsyD) in psychology and specialize in therapy and psychological testing. They focus on behavioral interventions and talk therapy. Psychiatrists are medical doctors (MD) who can prescribe medication and specialize in the medical management of mental health conditions. At Bofill, we offer referrals to trusted psychiatrists when medication might be beneficial alongside therapy.",
+        "Psychologists have doctoral degrees (PhD, PsyD) in psychology and specialize in therapy and psychological testing. They focus on behavioral interventions and talk therapy. Psychiatrists are medical doctors (MD) who can prescribe medication and specialize in the medical management of mental health conditions. At Company, we offer referrals to trusted psychiatrists when medication might be beneficial alongside therapy.",
     },
     {
       question: "Is therapy confidential?",

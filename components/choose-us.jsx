@@ -10,7 +10,7 @@ export function WhyUs() {
             Why Choose Us
           </h2>
           <p className="max-w-[85%] text-muted-foreground md:text-xl">
-            At Bofill Psychological Services, we're committed to providing
+            At Company Psychological Services, we're committed to providing
             compassionate, evidence-based care
           </p>
         </div>
