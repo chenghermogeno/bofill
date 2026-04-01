@@ -9,7 +9,7 @@ export function About() {
           <div className="space-y-8">
             <div>
               <p className="mb-3 text-sm font-medium uppercase tracking-wider text-amber-400">
-                WHO WE ARE
+                WHO WE AREr
               </p>
               <h2 className="mb-4 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
                 Journeying towards Happiness, Hand in Hand with Company
